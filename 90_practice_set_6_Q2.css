@@ -1,0 +1,14 @@
+.outer{
+    height: 500px;
+    width: 500px;
+    background-color: lightsalmon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner{
+    height: 250px;
+    width: 250px;
+    background-color: darkblue;
+    }

@@ -1,0 +1,30 @@
+#one{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(63, 171, 216);
+    border: 2px solid black;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: steps(3);
+    transition-delay: 2s;
+}
+
+#one:hover{
+    color: aliceblue;
+    background-color: rgb(236, 134, 10);
+    font-size: larger;
+}
+
+#two{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(175, 21, 202);
+    border: 2px solid black;
+    transition: all 2s steps(3) 2s;
+}
+
+#two:hover{
+    color: aliceblue;
+    background-color: rgb(236, 10, 10);
+    font-size: larger;
+}

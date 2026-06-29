@@ -1,0 +1,17 @@
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+#box2{
+    height: 66%;
+    width: 66%;
+    background-color: blue;
+}
+
+#box3{
+    height: 66%;
+    width: 66%;
+    background-color: red;
+}

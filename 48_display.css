@@ -1,0 +1,9 @@
+div{
+    background-color: palevioletred;
+    display: inline;
+}
+
+button{
+    background-color: palevioletred;
+    display: block;
+}

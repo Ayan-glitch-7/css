@@ -1,0 +1,26 @@
+/* UNIVERSAL SELECTORS: */
+*{
+    color:rgb(63, 10, 143);
+}
+
+/* ELEMENT SELECTORS: */
+h1{
+    color:cyan;
+    background-color:cornsilk;
+}
+
+/* ID SELECTORS: */
+#a{
+    color:darkgrey;
+}
+#b{
+    color: chartreuse;
+}
+#c{
+    color: darkorange;
+}
+
+/* CLASS SELECTOR: */
+.myclass{
+    color: crimson;
+}

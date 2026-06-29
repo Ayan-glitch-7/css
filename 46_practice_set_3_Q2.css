@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+#inner1{
+    color: #f08804;
+    font-size: 25px;
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+#inner2{
+    margin-right: 175px;
+    text-decoration: none;
+}
+
+#inner3{
+    margin-right: 175px;
+    text-decoration: none;
+}
+
+#inner4{
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+#inner5{
+    width: 105px;
+    color: black;
+}
+
+#inner6{
+    background-color: #f08804;
+    width: 60px;
+    margin-right: 50px;
+}
